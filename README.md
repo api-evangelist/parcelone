@@ -73,6 +73,13 @@ ParcelOne provides international shipping, fulfillment, tracking, customs, and l
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://parcel.one/)
+- [Documentation](https://sandbox.parcelone.io/apidoc/)
+- [API reference](https://sandbox.parcelone.io/apidoc/)
+- [Support](https://parcel.one/en/contact/)
+- [Blog](https://parcel.one/de/blog/)
+- [Terms of service](https://parcel.one/en/legal-notice/)
+
+**APIs profiled:** 8
 
 ## API Evangelist rating
 
