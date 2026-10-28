@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ParcelOne is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://parcel.one/
+ParcelOne provides international shipping, fulfillment, tracking, customs, and local delivery solutions for e‑commerce businesses, operating a centrally located logistics hub in Germany with AI‑driven high‑speed sorting to enable cross‑border commerce and optimized local deliveries worldwide.
+
+**Areas:** Logistics · Shipping · E-commerce · Fulfillment · International
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://parcel.one/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/parcelone/](https://apis.io/providers/parcelone/).
